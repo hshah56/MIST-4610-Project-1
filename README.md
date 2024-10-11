@@ -4,11 +4,11 @@ Team Name: BULLDAWGS
 
 Members:
 
-      Blank
-      Blank
-      Blank
-      Blank
-      Blank
+      Hitanshi Shah
+      Juan Lucas Ramos
+      Tyler Martin
+      Cameron Saini
+      Miles Cohall
 
 Scenario Description:
 
